@@ -1,0 +1,114 @@
+BODY {
+	SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-FACE-COLOR: #003366; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; SCROLLBAR-DARKSHADOW-COLOR: #003366; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #003366; SCROLLBAR-3DLIGHT-COLOR: #003366; PADDING-TOP: 0px
+}
+A:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003366; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003366; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #006697; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+A.branco:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A.branco:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A.branco:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+A.alt:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003366; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.alt:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003366; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.alt:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #006697; FONT-SIZE: 10px; TEXT-DECORATION: underline
+}
+A.guia:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #7a7a7a; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.guia:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #7a7a7a; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.guia:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #7a7a7a; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+A.pedido:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px
+}
+A.pedido:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px
+}
+A.pedido:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px
+}
+A.paragrafo:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.paragrafo:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.paragrafo:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.posicionamento:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003399; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.posicionamento:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003399; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.posicionamento:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003399; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.top:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.top:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.top:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.cinzab:link {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #e3dee3; FONT-SIZE: 8px; TEXT-DECORATION: none
+}
+A.cinzab:visited {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #e3dee3; FONT-SIZE: 8px; TEXT-DECORATION: none
+}
+A.cinzab:hover {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #e3dee3; FONT-SIZE: 8px; TEXT-DECORATION: none
+}
+H1 {
+	FONT-FAMILY: Arial, Verdana, Helvetica, Times; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+H2 {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #003399; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+H3 {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #000000; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+P {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px
+}
+LI {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px
+}
+.lista {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 10px
+}
+.texto {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #333333; FONT-SIZE: 11px
+}
+.textocinza10 {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #7a7a7a; FONT-SIZE: 10px
+}
+.back {
+	BACKGROUND: url(imgs/background.jpg) left top
+}
+.preco {
+	FONT-FAMILY: verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
